@@ -1,0 +1,1 @@
+AutoCSP is an approach for automatically retrofitting CSP to web applications. AutoCSP (1) leverages dynamic taint analysis to identify which content should be allowed to load on the dynamically-generated HTML pages of a web application and (2) indicates to developers how to change the server-side code to generate such pages with the right permissions.
